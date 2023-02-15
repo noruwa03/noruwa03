@@ -4,10 +4,15 @@
 <hr/>
 
 💻   About Me :
-I am a Full Stack IT consultant, Author, Speaker & open source tech enthusiast  from Singapore.
+<p>I am a Frontend web developer, tech enthusiast  from Nigeria.</p>
 
-I’m working as a Senior IT consultant and building large scale web applications.
-
-Authoring and blogging about emerging technologies.
-
-Share knowledge through meetups and twitter.
+<ul>
+  <li>I’m working as a frontend web developer and building large scale web applications.</li>
+  <li>Authoring and blogging about web technologies.</li>
+  <li>Sharing knowledge through social media network such as twitter.</li>
+ </ul>
+ 
+ <hr/>
+ 
+ 🛠️ Languages and Tools :
+JavaScript  React  VueJS  Redux  Pinia  CSS  HTML  Laravel  PHP Git Github
