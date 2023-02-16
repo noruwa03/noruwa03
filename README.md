@@ -15,4 +15,6 @@
  <hr/>
  
  🛠️ Languages and Tools :
-JavaScript  React  VueJS  Redux  Pinia  CSS  HTML  Laravel  PHP Git Github
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,php,laravel,typescript,reactjs,vuejs,redux,pinia,git)](https://skillicons.dev)
+```
