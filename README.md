@@ -23,7 +23,7 @@
     
 - **Front-End Development**:
 
-  [![My Skills](https://skillicons.dev/icons?i=js,html,css,php,laravel,typescript,react,vue,redux,git)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=js,html,css,typescript,react,vue,redux,git)](https://skillicons.dev)
 
 <br>
 <br>
