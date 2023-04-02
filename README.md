@@ -9,9 +9,9 @@
 
 <ul>
   <li>I’m working as a frontend web developer and building large scale web applications.</li>
-  <li>Authoring and blogging about web technologies.</li>
+  <li>Authoring and blogging about web technologies @ [dev.to](https://dev.to/noruwa).</li>
   <li>Sharing knowledge through social media network such as twitter.</li>
-  <li>I’m currently open for an Intern or a new job opportunity, this is [my resume](https://noruwa-portfolio.web.app/)</li>
+  <li>I’m currently open for an Intern or a new job opportunity, this is [my resume](https://noruwa-portfolio.web.app/).</li>
  </ul>
  
 <br>
