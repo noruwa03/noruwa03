@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Obaseki Noruwa</h1>
 <h3 align="center">A passionate frontend developer from Nigeria</h3>
 
-<br>
-<br>
+<br/>
+<br/>
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**:
 <p>I am a Frontend web developer, tech enthusiast  from Nigeria.</p>
@@ -14,8 +14,8 @@
   <li>I’m currently open for an Intern or a new job opportunity, this is [my resume](https://noruwa-portfolio.web.app/).</li>
  </ul>
  
-<br>
-<br>
+<br/>
+<br/>
  
  ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> **Languages and Tools**: </b>
  
@@ -25,15 +25,15 @@
 
   [![My Skills](https://skillicons.dev/icons?i=js,html,css,typescript,react,vue,redux,git)](https://skillicons.dev)
 
-<br>
-<br>
+<br/>
+<br/>
   
  - **Backend Development**:
 
    [![My Skills](https://skillicons.dev/icons?i=js,typescript,php,laravel,mysql,postgres)](https://skillicons.dev)
 
-<br>
-<br>
+<br/>
+<br/>
 
 
 ## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
