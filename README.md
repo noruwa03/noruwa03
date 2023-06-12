@@ -4,7 +4,7 @@
 <br/>
 <br/>
 
-## ![About me](https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif) **About me**:
+## <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" alt="About me" width="50"/> **About me**:
 I am a Frontend web developer, tech enthusiast  from Nigeria.
 
 + I’m working as a frontend web developer and building scaleable web applications with knowledge gained everyday.
